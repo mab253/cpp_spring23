@@ -29,7 +29,9 @@ There will be times throughout the semester, approximately 1x per month, when I 
 
 We will use an online textbook (zyBook) to guide us through learning C++. In the zyBooks platform, you will have readings with interactive homework exercises, as well as labs (like programming problem sets) from the same textbook.
 
-Each week, zyBooks reading homework will be due on **Wednesday** evenings by 11:59pm, and lab assignments will be due on **Fridays** by 11:59pm. 
+Each week, zyBooks homework will be due:
+- 📚readings w/question on **Wednesday** evenings by 11:59pm
+- 🥽 lab assignments on **Fridays** by 11:59pm
 
 **NOTE**: Learning C++ is like learning any new language - it's important to keep practicing, immersing yourself, and moving forward, a little bit at a time. I highly suggest you start the readings early in the week so that our time in-person will be most useful to you! You won't need to submit the reading homework for grading until Wednesday night, but it will be helpful for you to avoid doing it all at once ... you can't cram becoming a programmer!
 
