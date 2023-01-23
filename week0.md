@@ -12,6 +12,7 @@ We've got a few set-up tasks to get started ... the following is due by **Sunday
 - Sign in or create an account at https://learn.zybooks.com (you will need to use your CCNY email/ID)
 - Enter zyBook code: CUNYCSC10300BlountSpring2023
 - Subscribe
+- See here instructions for using [financial aid](https://zybooks.zendesk.com/hc/en-us/articles/1260801584850-Payment-Cost-financial-aid-refunds-discounts-and-more#h_01EWPM7ZS4GFDWCDFF4TXPCDFV) to pay for zyBooks
 
 4. **Join our Discord server**
 - Go to this link: 
