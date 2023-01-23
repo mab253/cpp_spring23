@@ -55,7 +55,7 @@ There will be a take-home mid-term exam in this course, and a final programming 
 
 **NO IN-PERSON LECTURE** on Jan. 25
 
-**Assignment:** watch 1st lecture video, [set-up assignments + survey here]() \
+**Assignment:** watch 1st lecture video, [set-up assignments + survey here](https://github.com/mab253/cpp_spring23/blob/main/week0.md) \
 **SURVEY DUE:** Jan 29, 11:59pm
 
 ---
