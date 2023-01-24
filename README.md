@@ -25,7 +25,7 @@ This is an introduction to computing, intended for those majoring in computer s
 
 This course will generally meet **in-person**, with a lecture 2 mornings per week (M/W). There is also a (required) recitation on Friday mornings with instructor Chunyu Yuan. 
 
-🎥 There will be times throughout the semester, approximately 1x per month, when I will film a lecture instead of giving one in-person. When I post a video instead, you will be free to watch it in your own time. These asynchronous lectures will be clearly marked on the schedule. In the case of any change in the schedule, I will announce this change ahead of time via Blackboard/e-mail. 
+🎥 There will be times throughout the semester, approximately 1x per month, when I will film a lecture instead of giving one in person. When I post a video instead, you will be free to watch it in your own time. These asynchronous lectures will be clearly marked on the schedule. In the case of any change in the schedule, I will announce this change ahead of time via Blackboard/e-mail. 
 
 We will use an online textbook (zyBook) to guide us through learning C++. In the zyBooks platform, you will have readings with interactive homework exercises, as well as labs (like programming problem sets) from the same textbook.
 
