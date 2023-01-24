@@ -85,7 +85,7 @@ zyBooks Week 2 Lab: DUE Feb. 10, 11:59pm
 **NO CLASS** on Feb. 13, college closed \
 **NO IN-PERSON LECTURE** on Feb. 15 
 
-I will post 1 asynchronous lecture video; watch this video on your own time this week \
+🎥 I will post 1 asynchronous lecture video; watch this video on your own time this week \
 To reflect this asynchronous schedule, all zyBooks work is due by **Friday** this week
 
 **Assignments:** \
@@ -122,7 +122,7 @@ zyBooks Week 5 Lab: DUE Mar. 3, 11:59pm
 
 **NO IN-PERSON LECTURE** on Mar. 8 
 
-I will post 1 asynchronous lecture video; watch this video on your own time this week \
+🎥 I will post 1 asynchronous lecture video; watch this video on your own time this week \
 To reflect this asynchronous schedule, all zyBooks work is due by **Friday** this week
 
 **Assignments:** \
@@ -184,7 +184,7 @@ zyBooks Week 11 Lab: DUE Apr. 21, 11:59pm
 
 **NO IN-PERSON LECTURE** on Apr. 26 
 
-I will post 1 asynchronous lecture video; watch this video on your own time this week \
+🎥 I will post 1 asynchronous lecture video; watch this video on your own time this week \
 To reflect this asynchronous schedule, all zyBooks work is due by **Friday** this week
 
 **Assignments:** \
