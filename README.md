@@ -99,7 +99,7 @@ zyBooks Week 3 Lab: DUE Feb. 17, 11:59pm
 *Loops!*
 
 **NO CLASS** on Feb. 20, President's Day \
-Monday class moved to Tuesday, Feb. 21 
+Monday classes moved to Tuesday, Feb. 21 
 
 **Assignments:** \
 zyBooks Week 4, Readings: DUE Feb. 22, 11:59pm \
