@@ -2,7 +2,7 @@
 
 Discord intro documentation: [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
-Our class platform for questions, discussions, sharing resources, etc: 
+Discord is a good tool to learn in today's coding world: most workplaces will have some asynchronous chat/collaborative platform, and Discord is used for all sorts of jobs and organizing online communities ... maybe you've already used it for gaming. In our class, we will use the Discord platform for questions, discussions, sharing resources, etc: 
 <img width="1405" alt="Screenshot 2023-01-24 at 1 47 24 PM" src="https://user-images.githubusercontent.com/17707843/214359072-71c58d63-a46b-4ae9-a871-2d431fd3b49e.png">
 
 ## to start on our Discord server:
@@ -14,3 +14,5 @@ Our class platform for questions, discussions, sharing resources, etc:
 ## Discord tips
   - you can [customize the appearance](https://support.discord.com/hc/en-us/articles/207260127-How-can-I-change-Discord-s-appearance-theme-) so it's easiest for you to read
   - you can use Markdown, a [markup language](https://www.markdownguide.org/getting-started/), in your messages, especially helpful for sharing and asking questions about code: [style guide here](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
+
+fun fact - the backend for Discord is partially written in C++!
