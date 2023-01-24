@@ -275,7 +275,7 @@ _These terms modified and inspired by Harvard's CS50's academic honesty policy, 
 
 I have ways of checking on the originality of your code and assignments. Consequences for violating this academic honesty policy will be severe, including but not limited to failing the course.
 
-You can find CCNY’s Acedemic Integrity Policy in full [here](https://www.ccny.cuny.edu/it/academic-integrity-policy).  Do not plagiarize. 
+You can find CCNY’s Academic Integrity Policy in full [here](https://www.ccny.cuny.edu/it/academic-integrity-policy).  Do not plagiarize. 
 
 ## contact and questions
 
