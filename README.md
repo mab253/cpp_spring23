@@ -11,7 +11,7 @@ City College, City University of New York
 
 ## course description
 
-This is an intensive introduction to computing, intended for those majoring in computer science and engineering. The course will cover the basics of how a computer works; variables and data types; branching, conditionals, and logic; loops and functions; and an introduction to algorithms and recursion. 
+This is an introduction to computing, intended for those majoring in computer science and engineering. The course will cover the basics of how a computer works; variables and data types; branching, conditionals, and logic; loops and functions; and an introduction to algorithms and recursion. 
 
 ## what will we learn in this class?
 
