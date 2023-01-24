@@ -286,7 +286,7 @@ You can find CCNY’s Acedemic Integrity Policy in full [here](https://www.ccny.
 - checking the Discord, did someone else already post a similar question?
 - if your question is new, make a post! try to include as much of your thought process as you can 
 
-If you are answering a question on Discord - try and be friendly, and respond in the way you would like a response yourself. Remember that you will surely be asking a question yourself in your programming journey! We all have something to learn and something to share. 
+If you are answering a question on Discord - try and be friendly, and respond in the way you would like a response yourself. Remember that you will be asking a question yourself @ some point in your programming journey! We all have something to learn and something to offer. 
 
 Have a question about zyBooks, something not working the way it's supposed to? The zyBooks [FAQ platform](https://zybooks.zendesk.com/hc/en-us/categories/360004050694-Students) here is pretty great. If you can't find the answer to your question there, there is a team of people ready to answer your zyBooks questions (faster and better than I would!) at `support@zybooks.com`.
 
