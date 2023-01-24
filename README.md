@@ -27,13 +27,13 @@ This course will generally meet **in-person**, with a lecture 2 mornings per wee
 
 🎥 There will be times throughout the semester, approximately 1x per month, when I will film a lecture instead of giving one in person. When I post a video instead, you will be free to watch it in your own time. These asynchronous lectures will be clearly marked on the schedule. In the case of any change in the schedule, I will announce this change ahead of time via Blackboard/e-mail. 
 
-We will use an online textbook (zyBook) to guide us through learning C++. In the zyBooks platform, you will have readings with interactive homework exercises, as well as labs (like programming problem sets) from the same textbook.
+We will use an online textbook (zyBooks) to guide us through learning C++. In the zyBooks platform, you will have readings with interactive homework exercises, as well as labs (like programming problem sets) from the same textbook.
 
 Each week, zyBooks homework will be due:
 - 📚readings w/questions on **Wednesday** evenings, by 11:59pm
 - 🥽 lab assignments on **Fridays**, by 11:59pm
 
-**NOTE**: Learning C++ is like learning any new language - it's important to keep practicing, immersing yourself, and moving forward, a little bit at a time. I highly suggest you start the readings early in the week so that our time in-person will be most useful to you! You won't need to submit the reading homework for grading until Wednesday night, but it will be helpful for you to avoid doing it all at once ... you can't cram becoming a programmer!
+**NOTE**: Learning C++ is like learning any new language - it's important to keep practicing, immersing yourself, and moving forward, a little bit at a time. I highly suggest you start the readings early in the week so that our time in-person will be most useful to you! You won't need to submit the reading homework for grading until Wednesday night, but it will be helpful for you to avoid doing it all at once ... you can't cram the process of becoming a programmer!
 
 There will be a take-home mid-term exam in this course, and a final programming project. There is no final exam. 
 
