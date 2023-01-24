@@ -21,4 +21,5 @@ We've got a few set-up tasks to get started ... the following is due by **Sunday
 5. **Submit the class survey**
 - [Survey here](https://airtable.com/shrheWhtLAiFgZxM1) - password: c++2023pro
 - You will need to know your Discord name before completing the survey
+- You will need to agree to the academic honesty policy in the [syllabus](https://github.com/mab253/cpp_spring23/blob/main/README.md) when completing the survey
 
