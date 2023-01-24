@@ -250,9 +250,9 @@ If you have a reason for needing an extension, please reach out to me _before_ t
 
 ## academic honesty and integrity:
 
-Plagiarism is "the act of presenting another person's ideas, research or writings as your own." [(CUNY)](https://www.ccny.cuny.edu/it/academic-integrity-policy). This is as true for writing code as it is for writing others' words and pretending that they are yours. 
+Plagiarism is "the act of presenting another person's ideas, research or writings as your own." [(CUNY)](https://www.ccny.cuny.edu/it/academic-integrity-policy). **This is as true for writing code as it is for writing others' words and pretending that they are yours.** 
 
-It is important that everything you turn in for this class is your own work. I understand that collaborating with your classmates can be really helpful when learning programming - you are allowed to and encouraged to do this! However, the code you submit must reflect work you have done on your own. To outline some of the boundaries here, it is acceptable to:
+It is important that everything you turn in for this class is your own work. I understand that collaborating with your classmates can be really helpful when learning programming - you are allowed and encouraged to do this! However, the code you submit must reflect work you have done on your own. To outline some of the boundaries here, it is acceptable to:
 
 - Discuss the course’s material with others in order to understand it better.
 - Help a classmate identify a bug in their code
