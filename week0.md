@@ -15,8 +15,8 @@ We've got a few set-up tasks to get started ... the following is due by **Sunday
 - See here instructions for using [financial aid](https://zybooks.zendesk.com/hc/en-us/articles/1260801584850-Payment-Cost-financial-aid-refunds-discounts-and-more#h_01EWPM7ZS4GFDWCDFF4TXPCDFV) to pay for zyBooks
 
 4. **Join our Discord server**
-- Go to this link: 
-- Make note of the user name you chose 
+- [Instructions here!](https://github.com/mab253/cpp_spring23/blob/main/discord.md)
+- Make note of the user name you choose 
 
 5. **Submit the class survey**
 - [Survey here](https://airtable.com/shrheWhtLAiFgZxM1) - password: c++2023pro
