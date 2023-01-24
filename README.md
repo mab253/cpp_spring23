@@ -216,7 +216,7 @@ FINAL DUE: May 17th, 11:59pm
 
 ## materials and references
 
-We will use zyBooks [(see above)](#course-format) as our online text. I recognize that there are many different ways of learning and that folks may want to practice with different tools, so I will also post other resources for every chapter: online tutorials, videos, and texts. These additional resources will be optional but highly recommended - if you experiment, you may find that a different method makes a concept click for you!
+We will use zyBooks [(see above)](#course-format) as our online text. I recognize that there are many different ways of learning and that folks may want to practice with different tools, so I will also post other resources for every chapter: online tutorials, videos, and texts. There is _a lot_ of good "learning to program" material available out there ... These additional resources will be optional but recommended - if you experiment, you may find that a different method makes a concept click for you!
 
 ## tools we will use a lot
 
