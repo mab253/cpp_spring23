@@ -1,6 +1,6 @@
 # CS10300 - 🤖🖥️🪲 Introduction to Computing for Majors
 
-**Instructor:** Madeline Blount \
+**Instructor:** Professor Madeline Blount \
 **Term:** Spring 2023 \
 **Time:** Mondays/Wednesdays 11:00-11:50am (lecture) \
 **Space:** NAC 5/111 (lecture) \
