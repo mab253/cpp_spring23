@@ -221,9 +221,9 @@ We will use zyBooks [(see above)](#course-format) as our online text. I recogniz
 ## tools we will use a lot
 
 - Blackboard 
-- zyBooks
-- Discord
-- Repl.it 
+- [zyBooks](https://zybooks.com)
+- [Discord](https://discord.com)
+- [Repl.it](https://replit.com/)
 
 ## expectations and requirements
 ### how can I do well in this class?
