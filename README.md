@@ -17,7 +17,7 @@ This is an introduction to computing, intended for those majoring in computer s
 
 - We will learn the basics of modern object-oriented programming with C++
 - We will cultivate computational thinking in how we approach solving problems 
-- We will learn the importance (and joy!) of the interactive process of coding and debugging
+- We will learn the importance (and joy!) of the iterative process of coding and debugging
 - We will think about the real-world context of programming today as we grow as coders
 - We will develop an awareness of the interdisciplinary applications and intellectual foundations of computer science
 
