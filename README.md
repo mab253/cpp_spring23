@@ -19,6 +19,7 @@ This is an introduction to computing, intended for those majoring in computer s
 - We will cultivate computational thinking in how we approach solving problems 
 - We will learn about the iterative process of crafting programs and coding
 - We will learn the importance (and joy!) of debugging (and patience!)
+- We will develop an understanding of the interdisciplinary intellectual pursuit of computer science
 - We will think about the real-world context of programming as we grow as coders
 
 ## course format
