@@ -256,20 +256,20 @@ It is important that everything you turn in for this class is your own work. I u
 
 - Discuss the course’s material with others in order to understand it better.
 - Help a classmate identify a bug in their code
-- Incorporate a few lines of code that you find online or elsewhere into your own code, provided that those lines are not themselves solutions to assigned work and that you cite the lines’ origins.
+- Incorporate a few lines of code that you find online or elsewhere into your own code, provided that those lines are not solutions to assigned work and that you cite the lines’ origins
 - Turning to the web or elsewhere for instruction beyond the course’s own, for references, and for solutions to technical difficulties, but not for outright solutions to assigned work.
 - Whiteboarding solutions with others using diagrams or pseudocode but not actual code.
 - Working with a tutor to help you with the course, provided the tutor does not do your work for you.
 
 It is **not acceptable** to:
 
-- Viewing another’s solution to an assessment and basing your own solution on it.
+- View another’s solution to an assessment and base your own solution on it.
 - Ask a classmate to see their solution to some assessment before submitting your own.
-- Giving or showing to a classmate a solution to an assessment when it is they, and not you, who is struggling to solve it.
-- Searching for or soliciting outright solutions to assessments online or elsewhere.
-- Splitting an assessment’s workload with another individual and combining your work.
-- Submitting (after possibly modifying) the work of another individual 
-- Using AI-based software that suggests or completes answers to questions or lines of code.
+- Give or show to a classmate a solution to an assessment when it is they, and not you, who is struggling to solve it.
+- Search for or soliciting outright solutions to assessments online or elsewhere.
+- Split an assessment’s workload with another individual and combining your work.
+- Submit (after possibly modifying) the work of another individual 
+- Use AI-based software that suggests or completes answers to questions or lines of code.
 
 _These terms modified and inspired by Harvard's CS50's academic honesty policy, [here](https://cs50.harvard.edu/x/2022/honesty/)._
 
