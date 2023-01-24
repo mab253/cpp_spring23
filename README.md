@@ -236,9 +236,9 @@ We will use zyBooks [(see above)](#course-format) as our online text. I recogniz
 
 ## evaluation:
 Grading breakdown:
-- Participation/Attendance: 15%
+- Participation/Attendance: 10%
 - zyBooks Reading: 20%
-- zyBooks Labs: 25%
+- zyBooks Labs: 30%
 - Mid-Term Exam: 20%
 - Final Project: 20%
 
