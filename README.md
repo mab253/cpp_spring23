@@ -232,7 +232,7 @@ We will use zyBooks [(see above)](#course-format) as our online text. I recogniz
 
 - Take your _time_, and make sure you _give yourself time_ to do your reading/assignments ... we are going to cover a lot in this course, but the goal is not to rush through it. If the solution to a problem does not instantly reveal itself to you, _this is OK, this is great, this is part of the process!_ Programming involves a lot of sitting with challenges, breaking down complexities, trying and failing and trying again, and [devising sideways solutions that weren't obvious right away](https://xkcd.com/264/). Learning this rhythm is a big part of learning how to code. 
 
-- Also, it is crucial that we build a space where everyone can stay curious and take their time. This class will be an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you require an academic accommodation.
+- Also, it is crucial that we build a space where everyone can stay curious and take their time. This class will be an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please let me know privately if you require an academic accommodation.
 
 ## evaluation:
 Grading breakdown:
