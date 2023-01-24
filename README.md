@@ -267,7 +267,7 @@ It is **not acceptable** to:
 - Ask a classmate to see their solution to some assessment before submitting your own.
 - Give or show to a classmate a full solution to an assessment 
 - Search for or solicit outright solutions to assessments online or elsewhere.
-- Split an assessment’s workload with another individual and combining your work.
+- Split an assessment’s workload with another individual and combine your work.
 - Submit (after possibly modifying) the work of another individual 
 - Use AI-based software that suggests or completes answers to questions or lines of code.
 
