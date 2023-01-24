@@ -279,7 +279,7 @@ You can find CCNY’s Acedemic Integrity Policy in full [here](https://www.ccny.
 
 ## contact and questions
 
-👾 Our class will have a Discord server for posting questions and communicating with each other. If you have a question about the programming material, I suggest you start by:
+👾 Our class will have a [Discord](https://github.com/mab253/cpp_spring23/blob/main/discord.md) server for posting questions and communicating with each other. If you have a question about the programming material, I suggest you start by:
 
 - taking a pause, have you put in some time trying to solve this problem on your own?
 - taking a walk - maybe you can approach the problem in a new way?
