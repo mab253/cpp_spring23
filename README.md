@@ -246,7 +246,7 @@ on late work:
 
 **Late assignments drop 10% per day, starting after the due time.** (If you submit a zyBook reading 1 hour after the due date, for example, it already drops 10%. If you wait another 24 hours, it drops 20%.) 
 
-If you have a reason for needing an extension, please reach out to me _before_ the due date for an assignment.
+**✉️ To receive credit for late work, you will need to e-mail me once you have completed it.**  If you have a reason for needing an extension, please reach out to me _before_ the due date for an assignment.
 
 ## academic honesty and integrity:
 
