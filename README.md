@@ -83,7 +83,8 @@ zyBooks Week 2 Lab: DUE Feb. 10, 11:59pm
 *Branches, Logic, and Conditionals*
 
 **NO CLASS** on Feb. 13, college closed \
-**NO IN-PERSON LECTURE** on Feb. 15 
+**NO IN-PERSON LECTURE** on Feb. 15 \
+**[VIDEO](https://www.loom.com/share/277891c2b0d148ef805903b3c09bff39)**
 
 🎥 I will post 1 asynchronous lecture video; watch this video on your own time this week \
 To reflect this asynchronous schedule, all zyBooks work is due by **Friday** this week
