@@ -4,3 +4,4 @@ other practice + info on nested loops, and other topics this week:
 
 - **code** from class, grid pattern: https://replit.com/@mab253/grid-pattern#main.cpp
 - [Project Euler](https://projecteuler.net/)
+- on [usleep](https://www.geeksforgeeks.org/how-to-use-usleep-function-in-cpp-programs/)
