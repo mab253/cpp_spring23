@@ -121,7 +121,8 @@ zyBooks Week 5 Lab: DUE Mar. 3, 11:59pm
 **Week 6: Mar. 6 & Mar. 8** \
 *Arrays + Vectors* 
 
-**NO IN-PERSON LECTURE** on Mar. 8 
+**NO IN-PERSON LECTURE** on Mar. 8 \
+**[VIDEO](https://www.loom.com/share/7833712979fe46c6b404d8c7cc203dc8)**
 
 🎥 I will post 1 asynchronous lecture video; watch this video on your own time this week \
 To reflect this asynchronous schedule, all zyBooks work is due by **Friday** this week
