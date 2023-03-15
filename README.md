@@ -146,7 +146,7 @@ zyBooks Week 7 Lab: DUE Mar. 17, 11:59pm
 *MID-TERM & Review*
 
 **Assignment:** \
-Take-Home Mid-Term Exam: DUE Mar. 24, 11:59pm
+Take-Home Mid-Term Exam: DUE Mar. 24, 9AM (before lab)
 
 ---
 
