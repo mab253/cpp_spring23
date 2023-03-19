@@ -213,7 +213,7 @@ FINAL DUE: May 17th, 11:59pm
 ---
 
 ## key dates
-- mid-term take-home exam: due March 24, 11:59pm 
+- mid-term take-home exam: due March 24, 9AM (before lab) 
 - final project: due May 17th, 11:59pm
 
 ## materials and references
