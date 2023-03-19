@@ -146,6 +146,7 @@ zyBooks Week 7 Lab: DUE Mar. 17, 11:59pm
 *MID-TERM & Review*
 
 **Assignment:** \
+[Mid-Term Groundrules](https://github.com/mab253/cpp_spring23/blob/main/midterm.md) \
 Take-Home Mid-Term Exam: DUE Mar. 24, 9AM (before lab)
 
 ---
