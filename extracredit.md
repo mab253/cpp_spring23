@@ -1,6 +1,8 @@
-## 🤖 extra credit opportunities
+## 🤖 optional extra credit opportunities
 
-If you want to improve your grade (or you want a chance for a little more reflection or challenge) - you can take the time to do 1 or more of the following extra credit opportunities.
+If you want to improve your grade (or you want a chance for a little more reflection or challenge) - you can take the time to do 1 or more of the following extra credit opportunities. 
+
+(Remember - these are **optional!** I would love for you do them if you are interested or want the grade boost, but they are by no means required.)
 
 ### 1 - 🎨 MoMA
 Go to the Museum of Modern Art (CUNY students go [free with student ID!](https://www.moma.org/research-and-learning/education-partnerships/moma-cuny-partnerships)) and make sure to check out either Refik Anadol's AI project _Unsupervised_ (if you go before April 15, closes that day), _Never Alone_ (history of video games and interfaces), _Signals_ (a recent history of video art, video and the news, and "how video transformed the world"), or _Black Power Naps_ (an installation/library for practicing rest, through May 14). Write a reflection (at least 750 words) about what you see, and connect these art exhibits to your own experience as a student of computer science and someone making technology. What might you want to make, and why? How do these art pieces inspire, challenge, or make you think differently about technology's role in society? How does learning C++ today give you ideas about what technology you want to make in the future? Include 1 photo that you take (you can use your phone) of a piece that you found particularly interesting in the museum.
