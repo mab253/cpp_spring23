@@ -185,8 +185,8 @@ zyBooks Week 11 Lab: DUE Apr. 21, 11:59pm
 **Week 12: Apr. 24 & Apr. 26** \
 *Pointers*
 
-**NO IN-PERSON LECTURE** on Apr. 26 
-[VIDEO](https://www.loom.com/share/36b18c04c6c342ba96ad32fd06d5aa56)
+**NO IN-PERSON LECTURE** on Apr. 26 \
+**[VIDEO](https://www.loom.com/share/36b18c04c6c342ba96ad32fd06d5aa56)**
 
 🎥 I will post 1 asynchronous lecture video; watch this video on your own time this week \
 To reflect this asynchronous schedule, all zyBooks work is due by **Friday** this week
