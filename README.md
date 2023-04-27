@@ -209,14 +209,14 @@ zyBooks Week 13 Lab: DUE May 5, 11:59pm
 **Week 14: May 8 & May 10** \
 *Final Project & Special Topics*
 
-**Assignment:** TBD \
-FINAL DUE: May 17th, 11:59pm
+**Assignment:** work on final project \
+FINAL DUE: May 19th, 11:59pm
 
 ---
 
 ## key dates
 - mid-term take-home exam: due March 24, 9AM (before lab) 
-- final project: due May 17th, 11:59pm
+- final project: due May 19th, 11:59pm
 
 ## materials and references
 
