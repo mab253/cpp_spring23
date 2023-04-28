@@ -22,7 +22,7 @@ Create a text-based game, in the style of [Colossal Cave Adventure](https://grac
 
 This is a very open-ended project, but your code must include the following:
 - at least 5 functions that you write, outside of `main`
-- at least 1 class, and multiple instances of creating objects of that class
+- at least 1 class, and multiple instances of creating objects of that classes
 - at least 1 game-within-a-game, where your user must play a game or complete a task using `rand()`, the psuedo-random number generator
 - at least 1 variable that changes with your user throughout the gameplay (for example: a score; an inventory of things they are holding; etc.)
 - at least 1 instance of [ASCII art](https://www.asciiart.eu/)
