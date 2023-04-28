@@ -201,7 +201,7 @@ zyBooks Week 12 Lab: DUE Apr. 28, 11:59pm
 *Algorithms*
 
 **Assignments:** \
-zyBooks Week 13, Readings: DUE May 3, 11:59pm \
+zyBooks Week 13, Readings: DUE May 5, 11:59pm \
 zyBooks Week 13 Lab: DUE May 5, 11:59pm
 
 ---
