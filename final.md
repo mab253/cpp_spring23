@@ -1,6 +1,6 @@
 # 💿 final project
 
-For your final project in this class, you will code a C++ project from scratch (outside of zyBooks!). You have a few options for this assignment:
+For your final project in this class, you will code a C++ project from scratch (outside of zyBooks!). You have a few options for this assignment, and you'll need to choose 1 of the following:
 
 1. [🛡 Text-Based Adventure Game](#text-based-adventure-game)
 2. [🧊 Spatial Data Analyzer](#spatial-data-analyzer)
