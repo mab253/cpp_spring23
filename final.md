@@ -2,9 +2,9 @@
 
 For your final project in this class, you will code a C++ project from scratch (outside of zyBooks!). You have a few options for this assignment:
 
-1. [Text-Based Adventure Game](#🛡-text-based-adventure-game)
-2. [Spatial Data Analyzer](#🧊-spatial-data-analyzer)
-3. [Your Own Design](#🎨-your-own-design)
+1. [🛡 Text-Based Adventure Game](#text-based-adventure-game)
+2. [🧊 Spatial Data Analyzer](#spatial-data-analyzer)
+3. [🎨 Your Own Design](#your-own-design)
 
 There are specific requirements for each option, but all of your final projects will require:
 
@@ -16,7 +16,7 @@ There are specific requirements for each option, but all of your final projects 
 
 - Your code will be evaluated on the specific requirements for each project, as well as _style_: is your code legible? Do you have some comments that help your fellow programmers understand your work? Do you use loops to avoid repetition, efficient `if/else` statements, vectors or linked lists when necessary, and multiple files when you are writing classes?
 
-## 🛡 Text-Based Adventure Game
+## Text-Based Adventure Game
 
 Create a text-based game, in the style of [Colossal Cave Adventure](https://grack.com/demos/adventure/). You will need to create your own storyline, write text-based prompts for your user to navigate the game, and write an ending (or multiple endings) for your user's character.
 
@@ -32,7 +32,7 @@ This is a very open-ended project, but your code must include the following:
 
 A few examples: your user is an astronaut exploring Mars, and she finds a locked safe in a crater and needs to crack the combination to open the safe as part of the mission; OR your user gets a new job counting rats in NYC subway tunnels, and needs to guess which train is coming first to avoid danger; OR your user is a student studying in the CCNY library, who finds a book with a note in it, which leads them to a party where they have to play [Blackjack](https://en.wikipedia.org/wiki/Blackjack) at the door in order to get in; OR your user is starting a garden, and they have to respond to random acts of weather by choosing the right tools and actions; OR your user is shipwrecked and they have to find their way home, including picking up items on an island and guessing a password in order to stow away on a pirate ship; etc. etc ... this is a chance to be creative and explore a story that you enjoy!
 
-## 🧊 Spatial Data Analyzer
+## Spatial Data Analyzer
 
 Create a program that analyzes spatial data. Being able to determine the frequency and distance between points has all kinds of applications, from computer graphics to machine learning. In this project, the spatial data will be given to you in the form of points, either 2D _(x, y)_ or 3D _(x, y, z)_ - and you will need to receive the data input by uploading a file.
 
@@ -53,7 +53,7 @@ After the file upload, your program will need to analyze and output the followin
 6. Calculate the farthest distance between two 3D points in the dataset
 7. Write at least 6 functions outside of `main` to accomplish these tasks
 
-## 🎨 Your Own Design
+## Your Own Design
 
 Do you have a project idea that you and your partner really want to build? (Maybe something with [openFrameworks](https://openframeworks.cc/), maybe something with cryptography?) You can send me your idea via e-mail or Discord by **May 3rd,** and I will either approve it or suggest changes in scope/difficulty.
 
