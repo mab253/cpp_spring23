@@ -14,7 +14,7 @@ There are specific requirements for each option, but all of your final projects 
 
 - Each person will need to write a short (400 word) statement about the division of labor between you and your partner, and some brief reflections on how the project synthesizes what you have learned in this class.
 
-- Your code will be evaluated on the specific requirements for each project, as well as _style_: is your code legible? Do you have some comments that help your fellow programmers understand your work? Do you use loops to avoid repetition, efficient `if/else` statements, vectors or linked lists when necessary, and multiple files when you are writing classes?
+- Your code will be evaluated on the specific requirements for each project, as well as _style_: is your code legible? Do you have some comments that help your fellow programmers understand your work? Do you use loops to avoid repetition, efficient `if/else` statements, vectors or linked lists when necessary, and multiple files when you are writing classes? Have you developed a unique and efficient way of solving the problem or creating the project?
 
 ## Text-Based Adventure Game
 
