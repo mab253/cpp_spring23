@@ -8,3 +8,5 @@ resources for search/sort algorithms, big O notation, and other topics this week
 - Harvard CS50, [Merge Sort Demonstration](https://video.cs50.io/4oqjcKenCH8) video
 - Harvard CS50, [Merge Sort Explainer](https://video.cs50.io/Ns7tGNbtvV4) video
 - [Merge Sort](https://www.youtube.com/watch?v=kgBjXUE_Nwc&t=182s), video from computerphile on YouTube
+- [Sound of Sorting](https://panthema.net/2013/sound-of-sorting/), Timo Bingmann
+- [Video comparing multiple algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc&list=UULP_hF6e1ELHXF-xtVvLjkq9g&index=1), YouTube Victor Bohush
