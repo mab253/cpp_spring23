@@ -214,6 +214,14 @@ FINAL DUE: May 19th, 11:59pm
 
 ---
 
+**Week 15: Monday, May 15 (last class day)** \
+*Wrap-Up, Final Project & Special Topics*
+
+**Assignment:** work on final project \
+FINAL DUE: May 19th, 11:59pm
+
+---
+
 ## key dates
 - mid-term take-home exam: due March 24, 9AM (before lab) 
 - final project: due May 19th, 11:59pm
