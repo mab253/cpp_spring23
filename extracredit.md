@@ -20,4 +20,4 @@ Check out the [xkcd cartoon "Up Goer Five"](https://xkcd.com/1133/). This a sche
 - These assignments will still be graded - they need to be **original, thoughtful work** that you have put time and care into, in order to receive full points.  
 - [Academic honesty](https://github.com/mab253/cpp_spring23/#academic-honesty-and-integrity), as always, applies. Do not plagiarize!
 
-**These assignments are due to me via e-mail by May 10th, the last day of class, by 11:59pm.** I will only accept late work for these if you arrange it with me ahead of time. Have fun!
+**These assignments are due to me via e-mail by May 15th, the last day of class, by 11:59pm.** I will only accept late work for these if you arrange it with me ahead of time. Have fun!
