@@ -1,5 +1,7 @@
 # 💿 final project
 
+###  🚀 when ready, _each person_ can submit their final project [here](https://airtable.com/shrQhAFceKUd3Tefy) ⬅️
+
 For your final project in this class, you will code a C++ project from scratch (outside of zyBooks!). You have a few options for this assignment, and you'll need to choose 1 of the following:
 
 1. [🛡 Text-Based Adventure Game](#text-based-adventure-game)
@@ -62,6 +64,8 @@ Do you have a project idea that you and your partner really want to build? (Mayb
 1. First milestone: choose your project (1, 2, or your own idea) and your partner from your lab section **by May 5th.** You will need to fill out [this form](https://airtable.com/shraeiHt8vPUzNyQl) to share your project choice and your partner by 11:59pm on May 5th.
 
 2. Final project delivery, including short reflection texts and code via the Replit platform, due **May 19th** @ 11:59pm.
+
+3. ###  🚀 when ready, _each person_ can submit their final project [here](https://airtable.com/shrQhAFceKUd3Tefy) ⬅️
 
 ## important notes
 
